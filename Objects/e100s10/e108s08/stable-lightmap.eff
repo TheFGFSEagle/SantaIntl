@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PropertyList>
+	<name>stable</name>
+	<inherits-from>Effects/model-combined</inherits-from>
+	<parameters>
+		<lightmap-enabled type="int">1</lightmap-enabled>
+		<lightmap-multi type="int">0</lightmap-multi>	 
+		<texture n="3">
+			<image>stable-lightmap.png</image>
+			<type>2d</type>
+			<filter>linear-mipmap-linear</filter>
+			<wrap-s>clamp</wrap-s>
+			<wrap-t>clamp</wrap-t>
+			<internal-format>normalized</internal-format>
+		</texture>
+	</parameters>
+</PropertyList>
