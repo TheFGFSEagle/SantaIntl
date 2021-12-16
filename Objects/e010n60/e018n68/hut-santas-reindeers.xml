@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<path>hut-santas-reindeers.ac</path>
+	
+	<animation>
+		<type>alpha-test</type>
+		<alpha-factor>0.9</alpha-factor>
+	</animation>
+	<effect>
+		<inherits-from>hut-santas-reindeers-lightmap</inherits-from>
+		<object-name>Hut</object-name>
+		<object-name>SantaClaus1</object-name>
+		<object-name>SantaClaus2</object-name>
+		<object-name>SantaClaus3</object-name>
+		<object-name>SantaClaus4</object-name>
+		<object-name>SantaClaus5</object-name>
+		<object-name>Reindeer1</object-name>
+		<object-name>Reindeer2</object-name>
+		<object-name>Reindeer3</object-name>
+		<object-name>Reindeer4</object-name>
+	</effect>
+</PropertyList>
+

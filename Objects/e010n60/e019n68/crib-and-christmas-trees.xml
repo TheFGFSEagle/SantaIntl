@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<path>crib-and-christmas-trees.ac</path>
+	
+	<animation>
+		<type>alpha-test</type>
+		<alpha-factor>0</alpha-factor>
+	</animation>
+	<effect>
+		<inherits-from>crib-lightmap</inherits-from>
+		<object-name>Crib</object-name>
+	</effect>
+	<effect>
+		<inherits-from>christmas-tree-lightmap</inherits-from>
+		<object-name>ChristmasTree1</object-name>
+		<object-name>ChristmasTree2</object-name>
+		<object-name>ChristmasTree3</object-name>
+		<object-name>ChristmasTree4</object-name>
+		<object-name>ChristmasTree5</object-name>
+		<object-name>ChristmasTree6</object-name>
+	</effect>
+</PropertyList>
