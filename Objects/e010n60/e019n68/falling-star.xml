@@ -1,0 +1,15 @@
+<?xml vesion="1.0"?>
+<PropertyList>
+	<path>falling-star.ac</path>
+	
+	<animation>
+		<type>billboard</type>
+		<object-name>Star</object-name>
+		<spherical>false</spherical>
+	</animation>
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>10000</max-m>
+	</animation>
+</PropertyList>
