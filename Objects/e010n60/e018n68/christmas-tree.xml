@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<path>christmas-tree.ac</path>
+	
+	<animation>
+		<type>alpha-test</type>
+		<alpha-factor>0.9</alpha-factor>
+	</animation>
+	
+	<effect>
+		<inherits-from>christmas-tree-lightmap</inherits-from>
+		<object-name>ChristmasTree1</object-name>
+		<object-name>ChristmasTree2</object-name>
+	</effect>
+</PropertyList>

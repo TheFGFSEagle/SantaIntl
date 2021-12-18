@@ -4,7 +4,7 @@
 	
 	<animation>
 		<type>alpha-test</type>
-		<alpha-factor>0</alpha-factor>
+		<alpha-factor>0.5</alpha-factor>
 	</animation>
 	<effect>
 		<inherits-from>crib-lightmap</inherits-from>

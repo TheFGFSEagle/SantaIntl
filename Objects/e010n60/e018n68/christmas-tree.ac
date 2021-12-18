@@ -1,0 +1,45 @@
+AC3Db
+MATERIAL "ChristmasTreeMaterial" rgb 1.000 1.000 1.000  amb 1.000 1.000 1.000  emis 0.000 0.000 0.000  spec 0.500 0.500 0.500  shi 64 trans 0.000
+OBJECT world
+name "Blender_exporter_v3.3__christmas-tree.ac"
+kids 2
+OBJECT poly
+name "ChristmasTree1"
+data 9
+Plane.009
+crease 40.0
+texture "christmas-tree.png"
+numvert 4
+-1.35683 6.33077 -1.46936
+1.35683 6.33077 1.46937
+-1.35683 0.33077 -1.46936
+1.35682 0.33077 1.46936
+numsurf 1
+SURF 0X20
+mat 0
+refs 4
+0 0.773337 0.959234
+1 0.20635 0.959235
+3 0.20635 0.142429
+2 0.773337 0.142429
+kids 0
+OBJECT poly
+name "ChristmasTree2"
+data 9
+Plane.008
+crease 40.0
+texture "christmas-tree.png"
+numvert 4
+-1.46936 6.33077 1.35683
+1.46936 6.33077 -1.35682
+-1.46937 0.33077 1.35682
+1.46936 0.33077 -1.35682
+numsurf 1
+SURF 0X20
+mat 0
+refs 4
+0 0.773337 0.959234
+1 0.20635 0.959235
+3 0.20635 0.142429
+2 0.773337 0.142429
+kids 0
