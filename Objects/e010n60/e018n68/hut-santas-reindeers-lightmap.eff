@@ -2,7 +2,7 @@
 
 <PropertyList>
 	<name>hut-santas-reindeers-lightmap</name>
-	<inherits-from>Effects/model-combined-transparent</inherits-from>
+	<inherits-from>Effects/model-combined</inherits-from>
 	<parameters>
 		<lightmap-enabled type="int">1</lightmap-enabled>
 		<lightmap-multi type="int">0</lightmap-multi>	 
